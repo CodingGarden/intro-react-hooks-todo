@@ -1,24 +1,24 @@
 # Intro to React + Hooks - Build a TODO App
 
-* [ ] What is react?
-* [ ] What is JSX?
-* [ ] What is the "Virtual DOM"?
-* [ ] create-react-app
-* [ ] Show message from state on page
-  * [ ] What is useState?
-* [ ] Create New Todo Form
-* [ ] Call a function when the form is submitted
-  * [ ] What is useCallback?
-* [ ] Create a string state value to store the user input
-* [ ] Listen for when the input changes and update state
-* [ ] Log the user input when the form is submitted
-* [ ] Create an array state value for todos
-* [ ] Add a new todo into the todos array, with done: false
-* [ ] Show the todos in a list
-* [ ] Check done on a todo to mark it as done
-  * [ ] Show a line through the todo text
-* [ ] Add a button to remove a todo
-* [ ] Add a button to mark all todos as done
+* [x] What is react?
+* [x] What is JSX?
+* [x] What is the "Virtual DOM"?
+* [x] create-react-app
+* [x] Show message from state on page
+  * [x] What is useState?
+* [x] Create New Todo Form
+* [x] Call a function when the form is submitted
+  * [x] What is useCallback?
+* [x] Create a string state value to store the user input
+* [x] Listen for when the input changes and update state
+* [x] Log the user input when the form is submitted
+* [x] Create an array state value for todos
+* [x] Add a new todo into the todos array, with done: false
+* [x] Show the todos in a list
+* [x] Check done on a todo to mark it as done
+  * [x] Show a line through the todo text
+* [x] Add a button to remove a todo
+* [x] Add a button to mark all todos as done
 * [ ] What are components?
 * [ ] What are props?
 * [ ] Create a TodoList Component
